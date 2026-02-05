@@ -1,0 +1,7 @@
+{
+  "name": "The Semantic Bridge",
+  "description": "An AI-powered conflict resolution tool that translates intent, tone, and cultural framing rather than just literal facts to bridge misunderstandings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
